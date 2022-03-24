@@ -14,13 +14,13 @@
 2. 카페 배달 매출 데이터 (코로나 현황과 날씨 데이터 연동) https://nanum.etri.re.kr/share/mn99134/deliveryreview?lang=ko_KR
 3. 요기요 배달 리뷰 
 
-<br><br>
+<br><br><br>
 
 ## 상세내용 및 소스코드
 #### yogiyo_data_crawling_1.py
 - 요기요 사이트 
 ```
-<업체명, 별점, 리뷰 수, 사장님 리뷰, 배달소요시간> + <상세리뷰데이터> 크롤링
+<업체명, 별점, 리뷰 수, 사장님 리뷰, 배달소요시간> 크롤링
 ```
 - 레퍼런스
 1. https://scaredev.tistory.com/3 (요기요 음식점 크롤링하기)
@@ -31,5 +31,12 @@
 ![image](https://user-images.githubusercontent.com/57982899/159744068-ac454b83-3820-4ef2-a558-eab6832da786.png)
 
 
+<br><br>
 
+#### yogiyo_review_data_crawling.py
+```
+상세리뷰데이터 크롤링
+```
+- 레퍼런스
+1. https://projectlog-eraser.tistory.com/7 (네이버 뉴스 댓글 크롤러)
 
