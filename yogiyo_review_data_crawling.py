@@ -15,14 +15,14 @@ driver.find_element(by=By.XPATH, value=review_xpath).click()
 time.sleep(3)
 
 # 더보기
-# while True:
-#     try:
-#         css_selector = '#review > li.list-group-item.btn-more > a'
-#         more_reviews = driver.find_element(by=By.CSS_SELECTOR, value=css_selector)
-#         more_reviews.click()
-#         time.sleep(2)
-#     except:
-#         break
+while True:
+    try:
+        css_selector = '#review > li.list-group-item.btn-more > a'
+        more_reviews = driver.find_element(by=By.CSS_SELECTOR, value=css_selector)
+        more_reviews.click()
+        time.sleep(2)
+    except:
+        break
 
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")  # 스크롤을 가장 아래로 내린다
 time.sleep(2)
