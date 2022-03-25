@@ -42,5 +42,13 @@
 
 ![image](https://user-images.githubusercontent.com/57982899/159855283-f6926d2f-e34a-4c11-972f-9dea9b9db0c6.png)
 
+<br><br>
 
+#### yogiyo_review_data_crawling_all.py
+```
+상세리뷰데이터 전체 크롤링
+```
+- 파일은 카테고리별(한식, 중식, 양식, 디저트/카페)로 df0~df40을 concatenate한 파일입니다.
+
+<br><br>
 
