@@ -50,5 +50,11 @@
 ```
 - 파일은 카테고리별(한식, 중식, 양식, 디저트/카페)로 df0~df40을 concatenate한 파일입니다.
 
+![image](https://user-images.githubusercontent.com/57982899/160058186-320abff3-0a8c-4784-b8f9-c331fafe20a7.png)
+
+![image](https://user-images.githubusercontent.com/57982899/160058218-b3d484e7-c002-4570-b00d-063ae43447c1.png)
+
 <br><br>
+
+
 
