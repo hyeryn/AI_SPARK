@@ -29,7 +29,9 @@
 
 ![image](https://user-images.githubusercontent.com/57982899/159743870-1c89ca9c-9da3-4913-86a2-640c0d52bfbe.png)
 ![image](https://user-images.githubusercontent.com/57982899/159744068-ac454b83-3820-4ef2-a558-eab6832da786.png)
+![image](https://user-images.githubusercontent.com/57982899/160955025-3341121e-56a1-46c2-8ba6-7afe479a4b1d.png)
 
++ 날짜 tag 추가 추출 성공
 
 <br><br>
 
