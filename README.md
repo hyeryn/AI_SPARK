@@ -61,4 +61,13 @@
 <br><br>
 
 
+#### data_merge.py
+```
+파이썬으로 csv 내용 합치기
+```
+레퍼런스
+1. https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jangsam24&logNo=221389314127
+
+<br><br>
+
 
